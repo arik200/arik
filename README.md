@@ -4,3 +4,5 @@
 
 <h1 align="center">Hi 👋, I'm As-Ad Arik Azad</h1>
 <h3 align="center">Computer Engineer | Researcher | Web Developer </h3>
+
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
