@@ -1,80 +1,37 @@
 # arik
 
 
+![logo](supun-new.png)
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<!--
-    The commented-out sections are typically used for hiding or excluding code from rendering.
-    In this case, they may be placeholders for additional content that can be uncommented when needed.
--->
-
-<!-- Profile visitor badge -->
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-    <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-<!-- Wakatime badge -->
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
-<!-- Intro section -->
-<h3 align="center">
-    <samp>&gt; Hey There!, I am
-        <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
-    </samp>
-</h3>
-
-<!-- Social links -->
+<h1 align="center">Hi 👋, I'm As-Ad Arik Azad</h1>
+<h3 align="center">A passionate Programmer from Sri lanka</h3>
+<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 <p align="center"> 
-    <samp>
-        <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
-        <br>
-        「 I am a full stack web application developer from <b>Bangladesh</b> 」
-        <br>
-        <br>
-    </samp>
+ <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
+
 </p>
 
-<!-- Social badges -->
-<p align="center">
-    <a href="https://alsiam.com" target="blank">
-        <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
-    </a>
-    <a href="https://linkedin.com/in/al-siam" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
-    </a>
-    <a href="https://twitter.com/_alsiam" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="https://instagram.com/_alsiam" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
-    </a> 
-    <a href="https://facebook.com/alsiam.dev" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-    </a> 
-</p>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
-<!-- About me section -->
-<br />
+<br>
 
-# About me
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
-<p>
-    <!-- Coding gif -->
-    <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
-    ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
-    ❤️ &emsp; Love to writing code and learning new features<br/><br/>
-    📧 &emsp; Reach me anytime: csarik1129@gmail.com<br/><br/>
-</p>
-
-<br/>
-<br/>
-<br/>
-
-## Use To Code
-
-<!-- Coding skills badges -->
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-<!-- Add more coding skills badges as needed -->
-
-<!-- End of code -->
