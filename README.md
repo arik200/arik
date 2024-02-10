@@ -1,4 +1,9 @@
 # arik
 
+https://github-stats-alpha.vercel.app/api?username={your-github-username}&cc=000&tc=fff&ic=fff&bc=000
 
-[![](https://raw.githubusercontent.com/As-Ad_Arik_Azad/master/profile.gif)](https://www.As-Ad_Arik_Azad.com/)
+Where cc = Card Color
+      tc = Text Color
+      ic = Icon Color
+      bc = Border Color
+
