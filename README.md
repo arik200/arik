@@ -1,5 +1,4 @@
 
-<img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline-block; margin: 10px;" alt="GIF Example">
 
 # Hi 👋, I'm As-Ad Arik Azad
 
@@ -20,9 +19,6 @@
 
 ---
 
-### GitHub Stats:
-
-<img alt="As-Ad Arik Azad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 ---
 
