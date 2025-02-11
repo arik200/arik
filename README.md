@@ -33,3 +33,21 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
 
+
+[**All Blog Posts**](https://k9n.dev/blog)
+
+## Contact me :speech_balloon:
+
+Get in touch wit me!
+
+:speech_balloon: <a href="https://techhub.social/@k9n">Connect with me on Mastodon</a>
+
+:bird: <a href="https://twitter.com/d_koppenhagen">Chat with me on Twitter</a>
+
+:e-mail: <a href="mailto:mail@k9n.dev">Send an e-mail</a>
+
+:globe_with_meridians: <a href="https://k9n.dev">Checkout my website</a>
+
+:memo: <a href="https://k9n.dev/blog">Checkout my blog</a>
+
+
