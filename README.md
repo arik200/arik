@@ -20,8 +20,6 @@
 
 [**All Blog Posts**](https://k9n.dev/blog)
 
-<br/>
-<br/>
 
 ## Contact me :speech_balloon:
 
