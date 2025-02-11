@@ -20,6 +20,10 @@
 
 [**All Blog Posts**](https://k9n.dev/blog)
 
+
+
+<br />
+
 ## Contact me :speech_balloon:
 
 Get in touch wit me!
